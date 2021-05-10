@@ -1,0 +1,4 @@
+CardNumber,CardType,Error
+5410000000000000,Master,Valid
+4120000000000,Visa,Valid
+5878938422340028,Error,Credit card type invalid

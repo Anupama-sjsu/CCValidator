@@ -1,0 +1,1 @@
+[{ "CardNumber" : 5410000000000000, "CardType" : "Master", "Error" : "Valid" },{ "CardNumber" : 4120000000000, "CardType" : "Visa", "Error" : "Valid" },{ "CardNumber" : 5878938422340028, "CardType" : "Error", "Error" : "Credit card type invalid" }]

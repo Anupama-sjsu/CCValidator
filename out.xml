@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><root><row><CardNumber>5410000000000000</CardNumber><CardType>Master</CardType><Error>Valid</Error></row><row><CardNumber>4120000000000</CardNumber><CardType>Visa</CardType><Error>Valid</Error></row><row><CardNumber>5878938422340028</CardNumber><CardType>Error</CardType><Error>Credit card type invalid</Error></row></root>
