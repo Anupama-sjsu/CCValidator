@@ -1,7 +1,0 @@
-CardNumber,CardType,Error
-5410000000000000,Master,Valid
-4120000000000,Visa,Valid
-341000000000000,AmericanExpress,Valid
-6011000000000000,Discover,Valid
-6011000000000000,Discover,Valid
-0011000000000000,Error,Credit card type invalid
